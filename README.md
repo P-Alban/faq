@@ -152,4 +152,3 @@
 
  - [GitHub Gist](https://gist.github.com/)
  - [Fedora Pastebin](https://paste.fedoraproject.org/)
- - [Hastebin Telegram Bot](https://t.me/SimplePasteBot)
